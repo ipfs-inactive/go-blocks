@@ -7,23 +7,9 @@
 ![](https://circleci.com/gh/ipfs/go-blocks.png)
 [![Build Status](https://travis-ci.org/ipfs/go-blocks.svg)](https://travis-ci.org/ipfs/go-blocks)
 
-> go-blocks - ipfs blocks
+> (Deprecated) Blockservice and blockstore for go-ipfs
 
-This is the blocks tooling from [go-ipfs](https://github.com/ipfs/go-ipfs).
-
-## Install
-
-TODO
-
-## Usage
-
-TODO
-
-## Contribute
-
-Feel free to join in. All welcome. Open an [issue](https://github.com/ipfs/go-blocks/issues)!
-
-This repository falls under the IPFS [Code of Conduct](https://github.com/ipfs/community/blob/master/code-of-conduct.md).
+This repository is dead and has long been continued within [go-ipfs](https://github.com/ipfs/go-ipfs).
 
 ### Want to hack on IPFS?
 
